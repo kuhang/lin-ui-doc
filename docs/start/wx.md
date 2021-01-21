@@ -32,7 +32,7 @@ title: wx.lin使用方法
 ```js
 onLoad(){
   wx.lin.showLoading({
-    type:"filp",
+    type:"flip",
     fullScreen: true
   })
   setTimeout(()=>{
